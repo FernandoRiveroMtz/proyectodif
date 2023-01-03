@@ -9,7 +9,7 @@
   <!-- <link rel="stylesheet" href="{{ asset('sass/buscar.css')}}"> -->
   <link rel="stylesheet" href="{{ asset('sass/buscador.css')}}">
   <link rel="stylesheet" href="{{ asset('sass/navbar.css')}}">
-  <title>Bienvenido</title>
+  <title>Bienvenidosss</title>
 </head>
 
 <body>
