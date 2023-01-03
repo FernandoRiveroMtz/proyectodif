@@ -26,42 +26,6 @@
 
   <img src="{{ asset('img/banner2.png')}}" width="99.9%" height="50%">
 
-  <!-- <nav>
-    <ul class="menu">
-      <li class="item"><a href="#">
-          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
-            <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
-          </svg>
-        </a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Salud Pública <br> y Servicios Médicos</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Procuraduria Municipal <br>
-          de Protección de Niñas, <br>
-          Niños y adolecentes</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Servicios <br>
-          Educativos</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Nutrición y <br>
-          Alimentación</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Adulto<br>
-          Mayor</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Bienestar <br>
-          Familiar</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Normatividad<br>
-          y Transparencia</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Más servicios</a></li>
-      <li class="item"><a href="">|</a></li>
-      <li class="item"><a href="#">Galeria</a></li>
-      </li>
-      <li class="toggle"><a href="#"><i class="fas fa-bars"></i></a></li>
-    </ul>
-  </nav> -->
 
   <nav class="navbar navbar-expand-lg navbar-dark ">
     <div class="container">
@@ -128,24 +92,20 @@
   <img src="{{ asset('img/ftres.jpg')}}" width="200px" class="imagenes">
   <img src="{{ asset('img/fcuatro.jpg')}}" width="130px" class="imagenes">
   <img src="{{ asset('img/funo.jpg')}}" class="imagenes">
-
   <img src="{{ asset('img/funo.jpg')}}" class="imagenes">
   <img src="{{ asset('img/fcuatro.jpg')}}" width="130px" class="imagenes">
   <img src="{{ asset('img/ftres.jpg')}}" width="200px" class="imagenes">
   <img src="{{ asset('img/fdos.jpg')}}" width="290px" class="imagenes">
   <img src="{{ asset('img/funo.jpg')}}" class="imagenes">
 
-  <br>
-
-  <footer class="text-center text-black">
+  
+<div>
+<footer class="text-center text-black">
     <!-- Grid container -->
     <div class="container p-4 pb-0">
       <!-- Section: Social media -->
       <section class="mb-4">
-
         <img class="footer" src="{{ asset('img/funo.jpg')}}" class="imagenes" width="200px">
-
-          <hr>
 
         <!-- Facebook -->
         <a class="btn btn-outline-primary btn-floating m-1" href="#!" role="button"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
@@ -178,6 +138,8 @@
 
   </footer>
 
+</div>
+<hr>
 
 
 

@@ -23,7 +23,9 @@
   }
   
   hr{
-    position: absolute;
-    width:10vw;
-    transform:rotatez(90deg);
-  }
+    transform: rotateZ(90deg);
+    width: 200px;
+    position: fixed;
+    margin-left: 700px;
+    margin-top: 235px;
+}
