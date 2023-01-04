@@ -13,11 +13,13 @@
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
+    <link rel="stylesheet" href="{{ asset('sass/principal.css')}}">
+    <link rel="stylesheet" href="{{ asset('sass/navbar.css')}}">
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
-<body>
-    <div id="app">
+
+    {{-- <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
@@ -28,14 +30,13 @@
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <!-- Left Side Of Navbar -->
+                    
                     <ul class="navbar-nav me-auto">
 
                     </ul>
 
-                    <!-- Right Side Of Navbar -->
+                  
                     <ul class="navbar-nav ms-auto">
-                        <!-- Authentication Links -->
                         @guest
                             @if (Route::has('login'))
                                 <li class="nav-item">
@@ -76,5 +77,16 @@
             @yield('content')
         </main>
     </div>
+ --}}
+<body class="justify-content-center align-items-center vh-100" >
+    
+    @include('partials.nav')
+    <div id="app">
+        <main class="py-4">
+            @yield('content')
+        </main>
+    </div>
+    @include('partials.footer')
+
 </body>
 </html>
