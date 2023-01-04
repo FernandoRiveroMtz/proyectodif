@@ -47,3 +47,6 @@ Route::get('/imgpublic', function(){
 Route::get('/imgpublic', function(){
     return \App\Models\imagen::with('publicaciones')->get();
 });
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
