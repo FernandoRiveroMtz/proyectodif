@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    font-family: sans-serif;
+    background: #f1f1f1;
+  }
+  nav {
+    background: rgb(121, 20, 20);
+    padding: 0px 20px;
+  }
+  ul {
+    list-style-type: none;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* hr{
+    transform: rotateZ(90deg);
+    width: 200px;
+    position: fixed;
+    margin-left: 700px;
+    margin-top: 235px;
+} */
+
+a, .linea{
+  color: black;
+  font-size: 100px;
+  
+}

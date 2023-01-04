@@ -1,3 +1,4 @@
+
 @extends('layouts.app')
   <img src="{{ asset('img/banner2.png')}}" width="99.9%" height="50%">
 
@@ -179,9 +180,3 @@
         </div>
 
 
-    </div>
-</div>
-@endsection
-
-  
-  
