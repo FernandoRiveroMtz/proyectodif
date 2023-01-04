@@ -30,14 +30,13 @@
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <!-- Left Side Of Navbar -->
+                    
                     <ul class="navbar-nav me-auto">
 
                     </ul>
 
-                    <!-- Right Side Of Navbar -->
+                  
                     <ul class="navbar-nav ms-auto">
-                        <!-- Authentication Links -->
                         @guest
                             @if (Route::has('login'))
                                 <li class="nav-item">
@@ -79,9 +78,9 @@
         </main>
     </div>
  --}}
-<body class="bg-principal justify-content-center align-items-center vh-100" >
-    @include('partials.nav')
+<body class="justify-content-center align-items-center vh-100" >
     
+    @include('partials.nav')
     <div id="app">
         <main class="py-4">
             @yield('content')
