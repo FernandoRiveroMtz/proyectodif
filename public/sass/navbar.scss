@@ -7,17 +7,10 @@
     font-family: sans-serif;
     background: #f1f1f1;
   }
-  nav {
+ /*  nav {
     background: rgb(121, 20, 20);
     padding: 0px 20px;
-  }
-  ul {
-    list-style-type: none;
-  }
-  a {
-    color: white;
-    text-decoration: none;
-  }
+  } */
   a:hover {
     text-decoration: underline;
   }
@@ -29,12 +22,6 @@
     margin-left: 700px;
     margin-top: 235px;
 } */
-
-a, .linea{
-  color: black;
-  font-size: 100px;
-  
-}
 
 .puno {
   background: rgb(121, 20, 20);
@@ -48,53 +35,20 @@ a, .linea{
   line-height: .9em;  
  }
 
- .pndos {
-  background: rgb(121, 20, 20);
-  color: white;
-  width: 350px;
-  font-size: xx-large;
- }
 
- .imagenes{
+/*  .imagenes{
   margin-right: 20px;
   margin-bottom: 20px;
   width: 250px;
   height: 190px;
- }
- .puno {
-  background: rgb(121, 20, 20);
-  color: white;
-  width: 330px;
-  font-size: xx-large;
- }
-
- .textejem{
-  margin: 20px; 
-  line-height: .9em;  
- }
-
- .pndos {
-  background: rgb(121, 20, 20);
-  color: white;
-  width: 350px;
-  font-size: xx-large;
- }
-
- .imagenes{
-  margin-right: 20px;
-  margin-bottom: 20px;
-  width: 250px;
-  height: 190px;
- }
-
+ } */
+ 
 .foot{
   width: 100%;
   background:gray;
   align-items: center;
   position: sticky;
  }
-
- 
 
  .footd, h2{
   background: rgb(207, 14, 14);

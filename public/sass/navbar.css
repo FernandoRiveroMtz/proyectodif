@@ -9,20 +9,10 @@ body {
   background: #f1f1f1;
 }
 
-nav {
-  background: rgb(121, 20, 20);
-  padding: 0px 20px;
-}
-
-ul {
-  list-style-type: none;
-}
-
-a {
-  color: white;
-  text-decoration: none;
-}
-
+/*  nav {
+   background: rgb(121, 20, 20);
+   padding: 0px 20px;
+ } */
 a:hover {
   text-decoration: underline;
 }
@@ -34,11 +24,6 @@ a:hover {
     margin-left: 700px;
     margin-top: 235px;
 } */
-a, .linea {
-  color: black;
-  font-size: 100px;
-}
-
 .puno {
   background: rgb(121, 20, 20);
   color: white;
@@ -51,46 +36,12 @@ a, .linea {
   line-height: 0.9em;
 }
 
-.pndos {
-  background: rgb(121, 20, 20);
-  color: white;
-  width: 350px;
-  font-size: xx-large;
-}
-
-.imagenes {
+/*  .imagenes{
   margin-right: 20px;
   margin-bottom: 20px;
   width: 250px;
   height: 190px;
-}
-
-.puno {
-  background: rgb(121, 20, 20);
-  color: white;
-  width: 330px;
-  font-size: xx-large;
-}
-
-.textejem {
-  margin: 20px;
-  line-height: 0.9em;
-}
-
-.pndos {
-  background: rgb(121, 20, 20);
-  color: white;
-  width: 350px;
-  font-size: xx-large;
-}
-
-.imagenes {
-  margin-right: 20px;
-  margin-bottom: 20px;
-  width: 250px;
-  height: 190px;
-}
-
+ } */
 .foot {
   width: 100%;
   background: gray;

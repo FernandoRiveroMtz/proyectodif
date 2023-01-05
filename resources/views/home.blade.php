@@ -17,19 +17,19 @@
 
                     {{ __('Inicio') }}
 
-                    <p class="puno">¿Quienes somos?</p>
+                    <p style="background: rgb(121, 20, 20); color: white; width: 330px; font-size: xx-large;">¿Quienes somos?</p>
 
-                    <p class="textejem">Descripción completa solo texto, para tener información para los usuarios.</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
-                    <p class="textejem">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p>Descripción completa solo texto, para tener información para los usuarios.</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
+                    <p style="margin: 20px; line-height: .9em;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore similique doloribus, molestias illum reiciendis facere expedita</p>
 
                     {{-- <br>
 
