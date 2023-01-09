@@ -5,6 +5,8 @@
  */
 
 import './bootstrap';
+// import 'bootstrap/dist/js/bootstrap.js';
+// import 'bootstrap/dist/js/bootstrap.min.js';
 import { createApp } from 'vue';
 
 /**
@@ -12,6 +14,8 @@ import { createApp } from 'vue';
  * registering components with the application instance so they are ready
  * to use in your application's views. An example is included for you.
  */
+import $ from "jquery";
+window.jQuery = window.$ = $
 
 const app = createApp({});
 
