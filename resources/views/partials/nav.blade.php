@@ -38,6 +38,20 @@
     </div>
   </nav>
  -->
+
+ <style>
+  a.ex4:hover, a.ex4:active { 
+    color: white; 
+    font-size: 120%;
+  }
+ /*  .borde{
+    border-left: thick solid white; 
+    border-left-width: 2px;
+  }
+  ul{
+    border: none;
+  } */
+</style>
 <nav class="navbar navbar-expand-lg navbar-dark bg-gob">
   <div class="container">
     <button class="navbar-toggler">
@@ -45,34 +59,35 @@
     </button>
     <div id="menunavegacion" class="collapse navbar-collapse">
       <ul class="navbar-nav mb-0 mb-lg-0 ms-5" style="float: center;">
-        <li class="nav-item"><a class="nav-link" href="#">
+        <li class="nav-item"><a class="nav-link ex4" href="#">
             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
               <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5Z" />
             </svg>
           </a></li>
-          <hr style="color:white; transform:rotatez(90deg); width:6vw; position:absolute;" class="navbar-toggler">
-        <li class="nav-item"><a class="nav-link" href="#">
+          <!-- <hr style="color:white; transform:rotatez(90deg); width:6vw;"> -->
+        <li class="nav-item borde"><a class="nav-link ex4" href="#">
             Salud Pública <br> y Servicios Médicos
           </a></li>
-        <li class="nav-item-lg"><a class="nav-link" href="#">
+        <li class="nav-item-lg borde"><a class="nav-link ex4" href="#">
             Procuraduria Municipal <br>de Protección de Niñas, <br>Niños y adolecentes.
           </a></li>
-        <li class="nav-item"><a class="nav-link" href="#">
+        <li class="nav-item borde"><a class="nav-link ex4" href="#">
             Servicios <br>Educativos
           </a></li>
-        <li class="nav-item"><a class="nav-link" href="#">
+        <li class="nav-item borde"><a class="nav-link ex4" href="#">
             Nutrición y <br>Alimentación
           </a></li>
-        <li class="nav-item"><a class="nav-link" href="#">
+        <li class="nav-item borde"><a class="nav-link ex4" href="#">
             Adulto <br>Mayor
           </a></li>
-        <li class="nav-item"><a class="nav-link" href="#">
+        <li class="nav-item borde"><a class="nav-link ex4" href="#">
             Bienestar <br>Familiar
           </a></li>
-        <li class="nav-item"><a class="nav-link" href="#">Normatividad <br>y Transparencia</a></li>
-        <li class="nav-item"><a class="nav-link" href="#">Más servicios</a></li>
-        <li class="nav-item"><a class="nav-link" href="#">Galeria</a></li>
+        <li class="nav-item borde"><a class="nav-link ex4" href="#" >Normatividad <br>y Transparencia</a></li>
+        <li class="nav-item borde" ><a class="nav-link ex4" href="#">Más servicios</a></li>
+        <li class="nav-item borde"><a class="nav-link ex4" href="#" >Galeria</a></li>
       </ul>
     </div>
   </div>
 </nav>
+
