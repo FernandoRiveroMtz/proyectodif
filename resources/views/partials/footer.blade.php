@@ -13,15 +13,15 @@
           <img src="{{ asset('../img/Logos.png') }}" width="200"> <span>" "</span>
           <!-- Youtube -->
           <span>" "</span>
-          <a class="btn btn-outline-danger btn-floating m-1" href="https://www.youtube.com/@difecatepec5605" target="_blank" role="button"><i class="bi bi-youtube"></i></a>
+          <a class="btn btn-primary btn-floating m-1" href="https://www.youtube.com/@difecatepec5605" target="_blank" role="button"><i class="bi bi-youtube"></i></a>
           <!-- Facebook -->
           <a class="btn btn-primary btn-floating m-2" href="https://es-la.facebook.com/SistemaMunicipalDIFEcatepec/" target="_blank" role="button"><i class="bi bi-facebook"></i></a>
           <!-- Twitter -->
-          <a class="btn btn-dark btn-floating m-1" href="https://twitter.com/ecatepecdif" target="_blank" role="button"><i class="bi bi-twitter"></i></a>
+          <a class="btn btn-primary btn-floating m-1" href="https://twitter.com/ecatepecdif" target="_blank" role="button"><i class="bi bi-twitter"></i></a>
           <!-- Instagram -->
-          <a class="btn btn-dark btn-floating m-1" href="https://www.instagram.com/dif_ecatepec/?hl=es" target="_blank" role="button"><i class="bi bi-instagram"></i></a>
+          <a class="btn btn-primary btn-floating m-1" href="https://www.instagram.com/dif_ecatepec/?hl=es" target="_blank" role="button"><i class="bi bi-instagram"></i></a>
           <!-- Tik Tok -->
-          <a class="btn btn-dark btn-floating m-1" href="https://www.tiktok.com/@difecatepec" target="_blank" role="button"><i class="bi bi-tiktok"></i></a>
+          <a class="btn btn-primary btn-floating m-1" href="https://www.tiktok.com/@difecatepec" target="_blank" role="button"><i class="bi bi-tiktok"></i></a>
 
         </section>
         <!-- termina -->

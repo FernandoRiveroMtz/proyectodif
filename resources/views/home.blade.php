@@ -6,7 +6,7 @@
     <div class="row justify-content-center">
         <div class="col-md-12">
             <div class="card">
-                {{-- <div class="card-header">{{ __('EcateFest 2023') }}
+                {{-- <div class="card-header">{{ __('Title') }}
             </div> --}}
 
             <div class="card-body">
@@ -63,7 +63,6 @@
                 </div>
             </div>
         </div>
-    </div>
 
         {{-- <div class="col-md-12">
             <div class="card">
@@ -72,4 +71,8 @@
                 </div>
             </div>
         </div> --}}
+
+    </div>
+</div>
+
 
