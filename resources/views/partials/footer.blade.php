@@ -7,7 +7,7 @@
       <div class="col-lg-12 col-md-12 mb-12 mb-md-0">
         <section class="mb-5"> <section>
           <div>
-          <hr style="color:white; transform:rotatez(90deg); width:9vw; position:absolute; margin-top: 6%; margin-left:34%;">
+          <hr style="color:white; transform:rotatez(90deg); width:9vw; position:absolute; margin-top: 6%; margin-left:34%;" class="d-none d-sm-block">
           </div>
           </section>
           <img src="{{ asset('../img/Logos.png') }}" width="200"> <span>" "</span>
