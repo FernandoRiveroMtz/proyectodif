@@ -39,7 +39,7 @@
   </nav>
  -->
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-gob">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
     <button class="navbar-toggler">
       <span class="navbar-toggler-icon" data-bs-toggle="collapse" data-bs-target="#menunavegacion"></span>
