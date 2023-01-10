@@ -9,6 +9,7 @@
           <div>
           <hr style="color:white; transform:rotatez(90deg); width:8vw; position:absolute; margin-top: 4.5%; margin-left:34%;" class="d-none d-xxl-block">
 
+
           <hr style="color:white; transform:rotatez(90deg); width:9vw; position:absolute; margin-top: 6%; margin-left:34%;" class="d-none d-sm-block">
           </div>
           </section>
