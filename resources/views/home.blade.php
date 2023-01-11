@@ -15,7 +15,7 @@
                 </div>
                 @endif
 
-                {{ __('Inicio') }}
+                <!-- {{ __('Inicio') }} -->
 
                 <p style="background: rgb(121, 20, 20); color: white; width: 330px; font-size: xx-large;">¿Quienes somos?</p>
 
