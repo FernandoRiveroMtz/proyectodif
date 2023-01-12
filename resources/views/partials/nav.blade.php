@@ -36,30 +36,15 @@
 </nav>
 
 <style>
- :root {
-  --text-color: #aaaebc;
-  --hr-color: #26292a;
-  --red: #e74c3c;
-}
-
-ul {
-  list-style: none;
-}
-
-a {
-  color: white;
-  /* text-decoration: none; */
-  font-weight: bold;
-}
-
+/* Cambia la distribución de los elementos de la navbar */
 .menu li {
-  margin-left: 25px;
+  margin-left: 20px;
 }
 
 .menu a {
   position: relative;
   display: block;
-  padding: 5px;
+  padding: 3px;
 }
 
 .menu a::before {
@@ -79,11 +64,7 @@ a {
 .menu a:hover::before {
   transform: scaleX(1);
 }
-
-
-/* ANIMATIONS
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
+/* Animación */
 .menu[data-animation="center"] a::before {
   transform-origin: center;
 }

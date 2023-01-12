@@ -1,4 +1,4 @@
-<footer class="bg-gob text-center text-dark-start">
+<footer class="bg-coldif text-center text-dark-start">
   <!-- Grid container -->
   <div class="container p-4">
     <!--Grid row-->
@@ -7,11 +7,11 @@
       <div class="col-lg-12 col-md-12 mb-12 mb-md-0">
         <section class="mb-1"> <!-- controla el largo de la barra de footer principal -->
           <!-- Linea vertical entre la imagen y los iconos -->
-          <hr style="color:#fff; transform:rotatez(90deg); width:9vw; position:absolute; margin-top: 4.4%; margin-left:34%;" class="d-none d-xxl-block">
+          <hr style="color:white; transform:rotatez(90deg); width:9vw; position:absolute; margin-top: 4.4%; margin-left:34%;" class="d-none d-xxl-block">
           <img src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d" width="200">
           <span style="color:white; margin-left:39.5%; margin-top: -8%; position:absolute; font-size: 20px;" class="d-none d-xxl-block"> Síguenos en nuestras redes:</span>
           <!-- Youtube -->
-          <span style="color: rgb(121, 20, 20);">" "</span> <span style="color: rgb(121, 20, 20);">" "</span>
+          &nbsp;&nbsp;&nbsp;
           <a class="btn btn-danger btn-floating m-1" href="https://www.youtube.com/@difecatepec5605" target="_blank" role="button"><i class="bi bi-youtube"></i></a>
           <!-- Facebook -->
           <a class="btn btn-primary btn-floating m-2" href="https://es-la.facebook.com/SistemaMunicipalDIFEcatepec/" target="_blank" role="button"><i class="bi bi-facebook"></i></a>
