@@ -33,7 +33,6 @@
   </div>
   <!-- Copyright -->
 </footer>
-
 <!-- Estilo de icino diferente -->
 <!-- <a class="btn btn-outline-danger btn-floating m-1" href="https://www.youtube.com/@difecatepec5605" target="_blank" role="button"><i class="bi bi-youtube"></i></a>
  --> 

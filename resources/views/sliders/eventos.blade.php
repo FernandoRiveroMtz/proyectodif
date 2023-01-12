@@ -15,7 +15,7 @@
                 </a>
             </div>
             <div class="col-12">
-                <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel">
+                <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel"> 
 
                     <div class="carousel-inner">
                         <div class="carousel-item active">
