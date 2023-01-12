@@ -4,7 +4,7 @@
       <span class="navbar-toggler-icon" data-bs-toggle="collapse" data-bs-target="#menunavegacion"></span>
     </button>
     <div id="menunavegacion" class="collapse navbar-collapse">
-      <ul class="navbar-nav mb-0 mb-lg-0 ms-5" >
+      <ul class="navbar-nav mb-0 mb-lg-0 ms-5 menu" data-animation="center">
         <li class="nav-item"><a class="nav-link" href="#">
             <i class="bi bi-house-door-fill" style="font-size: 2.5rem; color: white;"></i>
           </a></li>
@@ -34,3 +34,57 @@
     </div>
   </div>
 </nav>
+
+<style>
+ :root {
+  --text-color: #aaaebc;
+  --hr-color: #26292a;
+  --red: #e74c3c;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: white;
+  /* text-decoration: none; */
+  font-weight: bold;
+}
+
+.menu li {
+  margin-left: 25px;
+}
+
+.menu a {
+  position: relative;
+  display: block;
+  padding: 5px;
+}
+
+.menu a::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(to right, #b47dcd, #e878a2, #eb85ab);
+  z-index: 1;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.5s ease-in-out;
+}
+
+.menu a:hover::before {
+  transform: scaleX(1);
+}
+
+
+/* ANIMATIONS
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.menu[data-animation="center"] a::before {
+  transform-origin: center;
+}
+</style>
