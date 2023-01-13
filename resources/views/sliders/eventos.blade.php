@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-6">
-                <h3 class="mb-3" style="background: rgb(121, 20, 20); color: white; width: 350px; font-size: xx-large;">Eventos</h3>
+                <h3 class="col-3 bg-primary" style="color: white; width: 350px; font-size: xx-large;">Eventos</h3>
             </div>
             <div class="col-6 text-right">
                 <a class="btn btn-primary mb-3 mr-1" href="#carouselEventos" role="button" data-slide="prev">
