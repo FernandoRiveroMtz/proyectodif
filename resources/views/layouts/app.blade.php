@@ -16,12 +16,14 @@
     <link href='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css' rel='stylesheet'>
                                 
     <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js'></script>
+    <link rel="stylesheet" href="{{ asset('scss/boots.css')}}">
+    <link rel="stylesheet" href="{{asset('sass/_barranavega.css')}}">
 
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
-<body class="justify-content-center align-items-center vh-100" >
-{{-- <body class="bg-primary justify-content-center align-items-center vh-100" > --}}
+
+<body>
     @include('partials.nav')
     <div id="app">
         <main class="py-4">

@@ -1,6 +1,5 @@
 @extends('layouts.app')
 <img src="{{ asset('img/banner2.png')}}" width="99.9%" height="50%">
-
 @section('content')
 <div class="container-xxl">
     <div class="row justify-content-center">
