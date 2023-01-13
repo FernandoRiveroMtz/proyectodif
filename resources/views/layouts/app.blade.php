@@ -22,8 +22,8 @@
     <!-- Scripts -->
     @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
-<body class="justify-content-center align-items-center vh-100" >
-{{-- <body class="bg-primary justify-content-center align-items-center vh-100" > --}}
+
+<body>
     @include('partials.nav')
     <div id="app">
         <main class="py-4">
