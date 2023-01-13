@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\publicaciones;
+use App\Models\Publicacion;
 use App\Http\Requests\StorepublicacionesRequest;
 use App\Http\Requests\UpdatepublicacionesRequest;
 
@@ -15,7 +15,7 @@ class PublicacionesController extends Controller
      */
     public function index()
     {
-        //
+    
     }
 
     /**

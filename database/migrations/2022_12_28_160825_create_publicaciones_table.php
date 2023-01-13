@@ -17,8 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('nombre');
             $table->string('descripcion');
-            $table->string('url_imagen');
-            $table->string('fecha_publicacion');
+            $table->date('fecha_publicacion');
             $table->string('id_persona');
             $table->string('id_tipo_publicacion');
             $table->timestamps();
