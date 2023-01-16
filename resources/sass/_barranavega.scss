@@ -2,6 +2,18 @@
 /* .menu li {
   margin-left: 20px;
 } */
+:root {
+  --main-bg-color:  rgb(121, 20, 20);
+}
+
+.colgob{
+ background-color: var(--main-bg-color);
+}
+
+.coldif{
+  background-color: #C30053;
+ }
+
 .menu a {
   position: relative;
   display: block;
