@@ -8,13 +8,13 @@
         <div class="p-2 flex-fill bd-highlight"> <i class="bi bi-house-door-fill" style="font-size: 2.2rem; color: white;"></i> </div>
           </a></li>
         <li class="nav-item hover"><a class="nav-link" href="#" >
-        <div class="p-2 flex-fill bd-highlight"> Salud Pública y <br> Servicios Médicos </div>
+        <div class="p-2 flex-fill bd-highlight"> Salud Pública y Servicios Médicos </div>
           </a></li>
         <li class="nav-item-lg hover"><a class="nav-link" href="#">
-        <div class="p-2 flex-fill bd-highlight"> Procuraduria Municipal de Protección <br>de Niñas, Niños y adolecentes.</div>
+        <div class="p-2 flex-fill bd-highlight"> Procuraduria Municipal de Protección de Niñas, Niños y adolecentes.</div>
           </a></li>
         <li class="nav-item hover"><a class="nav-link" href="#">
-        <div class="p-2 flex-fill bd-highlight"> Servicios <br>Educativos</div>
+        <div class="p-2 flex-fill bd-highlight"> Servicios Educativos</div>
           </a></li>
         <li class="nav-item hover"><a class="nav-link" href="#">
         <div class="align-self-center p-3 bd-highlight">Nutrición y Alimentación</div>
