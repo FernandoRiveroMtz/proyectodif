@@ -16,7 +16,7 @@
                 <div id="carouselEventos" class="carousel slide" data-ride="carousel">
                   
                     <div class="carousel-inner">
-                        @foreach($eventos->chunk(4) as $cuartaEvento)
+                        @foreach($eventos->chunk(4) as $cuartaEvento) 
                         <div class="carousel-item @if($loop->first) active @endif">
                             <div class="row">
                               @foreach($cuartaEvento as $eventoItem)
