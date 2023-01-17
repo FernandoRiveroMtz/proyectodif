@@ -2,19 +2,18 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-6">
-                <h3 class="col-8 coldif img-fluid" style="color: white; font-size: xx-large;">Eventos</h3>
+                <h3 class="col coldif img-fluid menor460 mayor460" style="color: white; font-size: xx-large; width: 60%;">Eventos</h3>
             </div>
             <div class="col-6 text-right">
-                <a class="btn btn-primary mb-3 mr-1" href="#carouselEventos" role="button" data-slide="prev">
+                <a class="btn btn-primary mb-3 mr-1 botonsinefecto" href="#carouselEventos" role="button" data-slide="prev">
                     <i class="bi bi-arrow-left"></i>
                 </a>
-                <a class="btn btn-primary mb-3 " href="#carouselEventos" role="button" data-slide="next">
+                <a class="btn btn-primary mb-3 botonsinefecto" href="#carouselEventos" role="button" data-slide="next">
                     <i class="bi bi-arrow-right"></i>
                 </a>
             </div>
             <div class="col-12">
                 <div id="carouselEventos" class="carousel slide" data-ride="carousel">
-                  
                     <div class="carousel-inner">
                         @foreach($eventos->chunk(4) as $cuartaEvento) 
                         <div class="carousel-item @if($loop->first) active @endif">
@@ -30,12 +29,10 @@
                                             <p class="card-text">{{ substr($eventoItem->descripcion, 0, 45)."..."}}</p>
                                             <a href="#" class="btn btn-primary">Ver mas</a>
                                         </div> --}}
-
                                     </div>
                                 </div>
                               @endforeach                                
                             </div>
-
                         </div>
                         @endforeach
                     </div>

@@ -41,3 +41,36 @@
 .menu[data-animation="center"] a::before {
   transform-origin: center;
 }
+
+/* Tamaño de la letra en diferentes dispositivos */
+@media (min-width:460px){
+
+
+}
+/* Media querie para dispositivos más menores de 460*/
+@media (max-width:460px){
+.menor460{
+		display:block;
+}
+
+.mayor460{
+		/* display:none; */
+    font-size:larger !important;
+    height: 70%;
+    width: 90% !important;
+}
+
+.mayor460d{
+  /* display:none; */
+  font-size:medium !important;
+  height: 85%;
+  width: 90% !important;
+}
+
+}
+
+.botonsinefecto:focus{
+    /* outline: none !important;
+    box-shadow: none !important; */
+    visibility: hidden;
+}

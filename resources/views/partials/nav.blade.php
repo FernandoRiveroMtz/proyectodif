@@ -17,17 +17,17 @@
         <div class="p-2 flex-fill bd-highlight"> Servicios Educativos</div>
           </a></li>
         <li class="nav-item hover"><a class="nav-link" href="#">
-        <div class="align-self-center p-3 bd-highlight">Nutrición y Alimentación</div>
+        <div class="align-self-center p-2 bd-highlight">Nutrición y Alimentación</div>
           </a></li>
         <li class="nav-item hover"><a class="nav-link" href="#">
-        <div class="p-3 flex-fill bd-highlight">Adulto Mayor</div>
+        <div class="p-2 flex-fill bd-highlight">Adulto Mayor</div>
           </a></li>
         <li class="nav-item hover"><a class="nav-link" href="#">
-        <div class="p-3 flex-fill bd-highlight">Bienestar Familiar </div>
+        <div class="p-1 flex-fill bd-highlight">Bienestar Familiar </div>
           </a></li>
-        <li class="nav-item hover"><a class="nav-link" href="#"><div class="p-3 flex-fill bd-highlight">Normatividad y Transparencia</div></a></li>
-        <li class="nav-item hover"><a class="nav-link" href="#"><div class="p-3 flex-fill bd-highlight">Más servicios</div></a></li>
-        <li class="nav-item hover"><a class="nav-link" href="#"><div class="p-3 flex-fill bd-highlight">Galeria</div></a></li>
+        <li class="nav-item hover"><a class="nav-link" href="#"><div class="p-1 flex-fill bd-highlight">Normatividad y Transparencia</div></a></li>
+        <li class="nav-item hover"><a class="nav-link" href="#"><div class="p-1 flex-fill bd-highlight">Más servicios</div></a></li>
+        <li class="nav-item hover"><a class="nav-link" href="#"><div class="p-1 flex-fill bd-highlight">Galeria</div></a></li>
       </ul>
     </div>
 </nav>
