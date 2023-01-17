@@ -1,5 +1,8 @@
-@extends('layouts.app')
-<img src="{{ asset('img/Dif.jpg')}}"   class="img-fluid">
+@extends('layouts.app')<!-- 
+<img src="{{ asset('img/Dif.jpg')}}" class="img-fluid"> -->
+<div class="hover14 column">
+    <figure><img src="{{ asset('img/Dif.jpg')}}" class="img-fluid hover14 column"></figure>
+</div>
 @section('content')
 <div class="container-xxl">
     <div class="row justify-content-center">
